@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "ajaxgetproject",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Kat Ch",
+    "description": "The description of the application"
+  }
+}
