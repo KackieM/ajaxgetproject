@@ -1,8 +1,9 @@
 body {
-    padding: 20px;
+    padding: 50px;
     font-style: oblique;
     font color: lavendar;
     background-color: gray;
+    box-shadow: 50px;
     font: center;
     font: bold;
     font-size: 30px;
